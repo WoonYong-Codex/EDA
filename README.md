@@ -1,4 +1,4 @@
-# EDA
+# EDA and Data Visualization Projects
 
 Exploratory Data Analysis Project - World University Rankings 
 
